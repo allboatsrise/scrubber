@@ -1,0 +1,9 @@
+{
+  "name": "@desmosinc/scrubber",
+  "version": "0.0.1",
+  "license": "MIT",
+  "contributors": [{
+    "name": "Jason Merrill",
+    "email": "jason@desmos.com"
+  }]
+}
